@@ -3,4 +3,4 @@ This repository includes my coursework for the following courses:
 ### 1-Introduction to Data Science in Python
 
 
-*This is **NOT** to be copied for students taking the course provided by the University of Mitchigan, rather a personal storage and proof for recruiters. Copying code to solve assignments is against to honor code.
+*This is **NOT** to be copied by students taking the courses which are provided by the University of Mitchigan, this repository is rather a personal storage and proof for recruiters. Copying code to solve assignments is against the honor code.
